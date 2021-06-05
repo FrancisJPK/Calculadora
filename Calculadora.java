@@ -2,14 +2,20 @@
 /*hoy me desperte sin el conocimiento nesesario para hacer algo como esta calculadora, a base de buscar
  * y rebuscar herramientas, informacion etc., me abri paso a utilizar LAYOUTS, colores, fuentes, y alguna
  * que otra cosa mas... yo se que esto es una tonteria pero como principiante estoy contento de haber
- * logrado esto por mi cuenbta sin seguir un tutorial y guiandome por investigaci�n de distintas �reas
+ * logrado esto por mi cuenbta sin seguir un tutorial y guiandome por investigación de distintas áreas
  * y recibiendo influencia de los cursos que segui (actualmente sigo solo 1)*/
 
-package Calculadora;
+//5-6-21 13:37 
+/*
+Hoy 3 años y medio despues de subir esto me di cuenta de que
+el archivo .class que subí no lo puede ejecutar nadie si no se armaba el directorio correspondiente al package
+*package calculadora; eliminado
+*/
 
 import java.awt.AWTException;
 import java.awt.BorderLayout;
-import java.awt.Color;import java.awt.Component;
+import java.awt.Color;
+import java.awt.Component;
 import java.awt.FlowLayout;
 import java.awt.Font;
 import java.awt.Graphics;
